@@ -17,6 +17,6 @@ The files in this repository are the following:
 
 a - This file contains a short description of the operations performed/objects created in the script(2) above.
 
-b - Also lists the column-names (& a brief-desciption of col. names) of the final text file created containing the average of mean/std.variables for each activity per each subject
+b - Also lists the column-names (& a brief-desciption of col. names) of the final text file created containing the average of mean/std.variables for each activity per each subject.
     
 
